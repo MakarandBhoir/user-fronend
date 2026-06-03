@@ -430,7 +430,7 @@ body.login-page {
 
     .action-buttons {
         flex-direction: column;
-        gap: 5px;
+        gap: 6px;
     }
 
     .btn-small {
