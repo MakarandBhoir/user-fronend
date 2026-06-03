@@ -398,6 +398,15 @@ body.login-page {
     background: rgba(255, 255, 255, 0.35);
 }
 
+/* Announcement Banner */
+.announcement-banner {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .form-row {
