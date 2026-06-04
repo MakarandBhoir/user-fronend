@@ -3,12 +3,6 @@
         "github": {
             "type": "http",
             "url": "https://api.githubcopilot.com/mcp/"
-        },
-        "employee": {
-            "command": "node",
-            "args": [
-                "D:\\Technology\\MCP\\Server\\Typescript\\employee\\build\\index.js"
-            ]
         }
     }
 }
